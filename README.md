@@ -76,12 +76,16 @@ tkinter (included with Python)
 python poli.py
 
 Follow the on-screen prompts to select operation mode and desired tools. Type "help" in terminal to see commands.
+
 ⚙️ Configuration
 No additional configuration is required. The application will prompt for necessary inputs during operation.
+
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 🤝 Contributing
 Contributions for educational purposes are welcome. Please ensure all contributions maintain the educational focus of this project and do not introduce harmful capabilities.
+
 
 Fork the repository
 Create your feature branch (git checkout -b feature/amazing-feature)
