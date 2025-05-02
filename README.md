@@ -55,7 +55,7 @@ User Mode Only
 Basic features
 
 🚀 Installation
-bash# Clone the repository
+
 git clone https://github.com/goxdev7/poli.git
 
 
