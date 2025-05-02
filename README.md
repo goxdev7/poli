@@ -74,9 +74,8 @@ tkinter (included with Python)
 
 📚 Usage
 python poli.py
-Follow the on-screen prompts to select operation mode and desired tools.
-🔗 Command Reference
-CommandDescriptionrarsearcherFind RAR logs containing passwordstxtsearcherSearch text files for keywordscombocleanerClean and optimize combo listsusersearchSearch usernames across platformstokengenGenerate sample Discord tokenstokencheckerCheck validity of Discord tokenshelpShow help menuclearClear the screenexitExit the application
+
+Follow the on-screen prompts to select operation mode and desired tools. Type "help" in terminal to see commands.
 ⚙️ Configuration
 No additional configuration is required. The application will prompt for necessary inputs during operation.
 📝 License
